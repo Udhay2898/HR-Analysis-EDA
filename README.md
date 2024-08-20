@@ -22,6 +22,7 @@
 
 **Matplotlib, Seaborn, and Plotly :**
   These tools work together to provide a comprehensive exploration of the data, helping to uncover key patterns, trends, and insights. This thorough analysis is essential for making informed decisions and gaining a deeper understanding of the underlying factors within the dataset.
+  
 **Descriptive Statistics:** 
   Analyze the central tendencies and dispersion of the data using Pandas to generate summary statistics (mean, median, mode, standard deviation).
 
