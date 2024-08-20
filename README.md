@@ -1,3 +1,5 @@
+**Analyzing Employee Retention and Satisfaction: Key Insights for HR Strategy and Organizational Growth**
+
 **Project Objective:**
 
   The primary objective of this data analysis project is to understand and identify patterns, trends, and factors that influence employee retention and satisfaction within a company. By analyzing key variables such as satisfaction level, last evaluation, number of projects, average monthly hours, time spent at the company, work accidents, employee turnover, and promotions over the last 5 years, we aim to uncover insights that can guide decision-making in HR management, employee engagement strategies, and organizational improvements.
